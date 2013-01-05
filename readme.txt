@@ -1,1 +1,2 @@
-This is the exercise to using Github for Windows and ASP.NET MVC Music Store tutorials.
+This is my exercise in using Github for Windows (http://windows.github.com/) and ASP.NET MVC Music Store tutorials (http://www.asp.net/mvc/tutorials/mvc-music-store). 
+Don't exercise, don't practice, my valuable skills will become rusty.
